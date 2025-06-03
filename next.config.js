@@ -1,1 +1,1 @@
-module.exports = { experimental: { appDir: true } };
+// Next.js config here
